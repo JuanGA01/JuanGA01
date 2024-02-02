@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanGA01
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Every project
 - 📫 How to reach me ...
 
