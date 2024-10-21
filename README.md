@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanGA01
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning C++, Java, Kolin
+- 🌱 I’m currently learning C++, Java, Kotlin
 - 💞️ I’m looking to collaborate on Every project
 - 📫 How to reach me: jga2001@live.com
 
